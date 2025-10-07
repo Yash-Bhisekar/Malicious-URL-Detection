@@ -1,6 +1,6 @@
 # Malicious URL Detection
 
-**Repository:** Replace `YOUR_GITHUB_LINK_HERE` with your GitHub repository URL.
+**Repository:** https://github.com/Yash-Bhisekar/Malicious-URL-Detection
 
 ## Project Overview
 
@@ -98,12 +98,6 @@ Run the prediction script, which:
 * If you add new features, retrain models and update `feature_list.pkl`.
 * For better results consider adding host-based features (WHOIS, domain age), URL embeddings, or sequence models.
 
-## GitHub Link
-
-Replace the placeholder below with the URL of your repository:
-
-`https://github.com/YOUR_USERNAME/YOUR_REPOSITORY`
-
 ## License & Contact
 
 * License: Choose a license (e.g., MIT) and add a `LICENSE` file if needed.
@@ -111,5 +105,4 @@ Replace the placeholder below with the URL of your repository:
 
 ---
 
-*Generated README — modify any filenames, paths, or commands to match your project structure.*
 
