@@ -98,11 +98,6 @@ Run the prediction script, which:
 * If you add new features, retrain models and update `feature_list.pkl`.
 * For better results consider adding host-based features (WHOIS, domain age), URL embeddings, or sequence models.
 
-## License & Contact
 
-* License: Choose a license (e.g., MIT) and add a `LICENSE` file if needed.
-* Contact: Your Name (Yash) — add email if you want to share.
-
----
 
 
